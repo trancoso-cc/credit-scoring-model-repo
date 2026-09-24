@@ -1,5 +1,5 @@
 ---
-title: Aperture Credit Scoring Model
+title: Credit Scoring Model
 emoji: 📊
 colorFrom: purple
 colorTo: indigo
@@ -10,9 +10,9 @@ pinned: false
 license: other
 ---
 
-# Aperture Credit Scoring Model
+#  Credit Scoring Model
 
-Logistic regression credit scoring model for the Aperture unsecured personal loan
+Logistic regression credit scoring model for the  unsecured personal loan
 portfolio, exposed as a REST inference endpoint compatible with the
 **Holistic AI Tracer → Artifacts → Custom API** connector.
 
